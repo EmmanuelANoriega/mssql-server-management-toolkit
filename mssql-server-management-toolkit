@@ -1,0 +1,54 @@
+mssql-server-management-toolkit/
+│
+├── README.md
+│
+├── 01-database-management/
+│   ├── create-database.sql
+│   ├── database-information.sql
+│   └── database-files.sql
+│
+├── 02-table-management/
+│   ├── create-tables.sql
+│   ├── alter-tables.sql
+│   └── indexes.sql
+│
+├── 03-querying/
+│   ├── select-basics.sql
+│   ├── where-conditions.sql
+│   ├── joins.sql
+│   ├── aggregate-functions.sql
+│   └── subqueries.sql
+│
+├── 04-data-manipulation/
+│   ├── insert.sql
+│   ├── update.sql
+│   └── delete.sql
+│
+├── 05-security/
+│   ├── logins-users-roles.sql
+│   └── permissions.sql
+│
+├── 06-programmability/
+│   ├── stored-procedures.sql
+│   ├── functions.sql
+│   └── views.sql
+│
+├── 07-transactions/
+│   ├── transactions.sql
+│   └── isolation-levels.sql
+│
+├── 08-performance/
+│   ├── index-management.sql
+│   ├── query-performance.sql
+│   └── monitoring.sql
+│
+├── 09-maintenance/
+│   ├── backup-restore.sql
+│   └── database-maintenance.sql
+│
+├── 10-troubleshooting/
+│   ├── blocking-deadlocks.sql
+│   └── error-handling.sql
+│
+└── 11-system-procedures/
+    └── useful-stored-procedures.sql
